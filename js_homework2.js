@@ -17,7 +17,7 @@ else if(89>=mark && mark>=70){
 else if (69>=mark && mark>=50){
     console.log('Your mark is: '+grades[2])
 }
-else if (50>mark){
+else if (50>mark && mark >=1){
     console.log('Your mark is: '+grades[3])
 }
 
